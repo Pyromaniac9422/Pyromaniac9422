@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pyromaniac9422 aka Jon
 - 👀 I’m interested in transitioning into a career in networking and cybersecurity.
-- This hub is to be a portfolio and i will be transfering completed projects here
-- 🌱 I’m currently learning everything required for my network plus certification as well as some Python
-- 💞️ I’m looking to collaborate on any project that will help me along this transition, preferably learning some automations
+- This hub is to be a portfolio and I will be transfering completed projects here.
+- 🌱 I’m currently learning everything required for my Security+ certification as well as some linux and Python
+- 💞️ I’m looking to collaborate on any project that will help me along this transition, preferably learning automation.
 - 📫 How to reach me you can reach me at my e-mail jonathanjsalinas9422@gmail.com
 - 
 
